@@ -1,2 +1,2 @@
-num=input()
-print("".join(reversed(num)))
+inp=input()
+print("".join(reversed(inp)))
